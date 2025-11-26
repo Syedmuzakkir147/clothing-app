@@ -4,7 +4,7 @@ import { SearchOutlined, LogoutOutlined } from "@ant-design/icons";
 import { useNavigate, useSearchParams } from "react-router-dom";
 import { CartContext } from "./context/CartContext";
 import { AuthContext } from "./context/AuthContext";
-import "./homePage.css";
+import "./Homepage.css";
 import axios from "axios";
 
 const HomePage = () => {
