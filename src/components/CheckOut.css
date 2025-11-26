@@ -1,0 +1,52 @@
+.checkout-page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 80vh;
+  background-color: #f5f5f5;
+  padding: 20px;
+}
+
+.checkout-page .ant-card {
+  width: 100%;
+  max-width: 450px;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.checkout-page h1 {
+  font-size: 28px;
+  margin-bottom: 25px;
+}
+
+.summary p {
+  font-size: 18px;
+  margin: 8px 0;
+}
+
+.place-order {
+  width: 100%;
+  margin: 20px 0;
+  padding: 10px 0;
+  font-size: 16px;
+}
+
+.thank-you {
+  margin-top: 10px;
+  font-weight: 500;
+  color: #333;
+}
+
+.note {
+  font-size: 14px;
+  color: #666;
+  margin-bottom: 20px;
+}
+
+.back-home {
+  width: 100%;
+  padding: 8px 0;
+  font-size: 15px;
+}
