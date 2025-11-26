@@ -3,7 +3,7 @@ import axios from "axios";
 import { Button, Drawer, message, Card, Row, Col, Spin } from "antd";
 import { useNavigate, useParams } from "react-router-dom";
 import { CartContext } from "./context/CartContext";
-import "./homepage.css";
+import "./Homepage.css";
 
 const ProductDetails = () => {
   const { id } = useParams();
