@@ -1,4 +1,4 @@
-import HomePage from "./components/homePage";
+import HomePage from "./components/HomePage";
 import CheckOut from "./components/CheckOut";
 
 import { Route, Routes } from "react-router-dom";
