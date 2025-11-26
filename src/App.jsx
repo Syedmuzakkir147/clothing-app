@@ -2,7 +2,7 @@ import HomePage from "./components/HomePage";
 import CheckOut from "./components/CheckOut";
 
 import { Route, Routes } from "react-router-dom";
-import SignUp from "./components/Signup";
+import SignUp from "./components/SignUp";
 import Login from "./components/Login";
 import ProtectedRoute from "./components/context/ProtectedRoute";
 import ProductList from "./components/Products/ProductList";
